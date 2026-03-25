@@ -4,7 +4,8 @@
 
 ### 项目名称
 直播辩论系统 (Live Debate System)
-
+后端下载地址：https://github.com/102549/backend
+前端下载地址：https://github.com/102549/front/edit/main/
 ### 🚀 演示地址
 
 - **前端访问地址**:
