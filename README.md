@@ -7,7 +7,11 @@
 
 ### 🚀 演示地址
 
-- **前端访问地址**: 请参考下方部署说明
+- **前端访问地址**:
+- https://debate-api-uu51.onrender.com/health
+- https://debate-api-uu51.onrender.com/api/admin/dashboard
+- https://debate-api-uu51.onrender.com/api/admin/streams
+- https://debate-api-uu51.onrender.com/api/admin/votes
 - **后端 API 地址**: `https://live-debate-backend.up.railway.app` (Railway部署)
 - **WebSocket 地址**: `wss://live-debate-backend.up.railway.app/ws`
 
@@ -141,6 +145,7 @@ uni-app 前端项目需要部署到 uniCloud：
 2. **Mock 模式**: 所有数据均为模拟数据，不连接真实数据库
 3. **WebSocket**: 需要使用 WSS (WSS://) 用于生产环境
 4. **端口**: 后端默认使用 3000 端口，可通过环境变量 `PORT` 修改
+5. 由于电脑系统问题导致HBuilderX不兼容，无法进行小程序等内容部署
 
 ---
 
