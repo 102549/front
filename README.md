@@ -13,8 +13,8 @@
 - https://debate-api-uu51.onrender.com/api/admin/dashboard
 - https://debate-api-uu51.onrender.com/api/admin/streams
 - https://debate-api-uu51.onrender.com/api/admin/votes
-- **后端 API 地址**: `https://live-debate-backend.up.railway.app` (Railway部署)
-- **WebSocket 地址**: `wss://live-debate-backend.up.railway.app/ws`
+- **后端 API 地址**: `https://debate-backend.up.railway.app` (Render部署)
+- **WebSocket 地址**: `wss://debate-backend.up.railway.app/ws`
 
 ---
 
@@ -112,7 +112,7 @@ backend/
 
 ### 后端部署 (Railway)
 
-1. **创建 Railway 账号**: https://railway.app
+1. **创建 Railway 账号**: https://render.app
 2. **连接 GitHub 仓库**
 3. **部署 backend 目录**
 4. **自动获取访问地址**
